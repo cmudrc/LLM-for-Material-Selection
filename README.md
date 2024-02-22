@@ -1,2 +1,2 @@
-# LLM-for-Material-Selection
-This repository is created for the research done by the Design Research Collective and Autodesk Research
+Currently only using temperature 0
+That is also an experiment that can be done

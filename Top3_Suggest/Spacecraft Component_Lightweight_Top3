@@ -1,0 +1,1 @@
+"Output JSON:\n{\n    'design': 'Spacecraft Component',\n    'criterion': 'Lightweight',\n    'Top material 1': 'Carbon Fiber',\n    'Top material 2': 'Titanium Alloy',\n    'Top material 3': 'Aluminum-Lithium Alloy'\n}"

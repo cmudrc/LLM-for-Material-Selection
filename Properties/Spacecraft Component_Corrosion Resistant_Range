@@ -1,0 +1,1 @@
+"Output JSON:\n{\n    'design': 'Spacecraft Component',\n    'criterion': 'Corrosion Resistant',\n    'material': 'Titanium Alloy',\n    'Young\\'s Modulus': {'min': 100, 'max': 120, 'units': 'GPa'},\n    'Density': {'min': 4.3, 'max': 4.5, 'units': 'g/cm^3'},\n    'Yield Strength': {'min': 900, 'max': 1100, 'units': 'MPa'}\n}"

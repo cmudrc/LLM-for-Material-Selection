@@ -1,0 +1,1 @@
+"Output JSON:\n{\n    'design': 'Safety Helmet',\n    'criterion': 'Lightweight',\n    'Steel': 2,\n    'Aluminium': 8,\n    'Titanium': 9,\n    'Glass': 1,\n    'Wood': 3,\n    'Thermoplastic': 7,\n    'Elastomer': 5,\n    'Thermoset': 4,\n    'Composite': 9\n}"

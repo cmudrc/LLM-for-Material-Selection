@@ -1,0 +1,1 @@
+"Output JSON:\n{\n    'design': 'Underwater Component',\n    'criterion': 'Corrosion Resistant',\n    'material': 'Titanium Alloy',\n    'Young\\'s Modulus': {'min': 100, 'max': 120, 'units': 'GPa'},\n    'Density': {'min': 4.3, 'max': 4.7, 'units': 'g/cm^3'},\n    'Yield Strength': {'min': 800, 'max': 1000, 'units': 'MPa'}\n}"

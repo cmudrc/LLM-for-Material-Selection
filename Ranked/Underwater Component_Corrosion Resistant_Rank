@@ -1,0 +1,1 @@
+"Output JSON:\n{\n    'design': 'Underwater Component',\n    'criterion': 'Corrosion Resistant',\n    'Steel': 1,\n    'Aluminium': 5,\n    'Titanium': 2,\n    'Glass': 9,\n    'Wood': 9,\n    'Thermoplastic': 6,\n    'Elastomer': 7,\n    'Thermoset': 8,\n    'Composite': 4\n}"

@@ -1,0 +1,1 @@
+"{\n    'design': 'Safety Helmet',\n    'criterion': 'Resistant to Heat',\n    'Steel': 1,\n    'Aluminium': 3,\n    'Titanium': 2,\n    'Glass': 9,\n    'Wood': 8,\n    'Thermoplastic': 6,\n    'Elastomer': 7,\n    'Thermoset': 5,\n    'Composite': 4\n}"

@@ -1,0 +1,1 @@
+"Output JSON:\n{\n    'design': 'Safety Helmet',\n    'criterion': 'Corrosion Resistant',\n    'material': 'Stainless Steel',\n    'Young\\'s Modulus': {'min': '190', 'max': '220', 'units': 'GPa'},\n    'Density': {'min': '7.5', 'max': '8.0', 'units': 'g/cm^3'},\n    'Yield Strength': {'min': '300', 'max': '350', 'units': 'MPa'}\n}"

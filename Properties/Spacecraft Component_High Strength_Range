@@ -1,0 +1,1 @@
+"Output JSON:\n{\n    'design': 'Spacecraft Component',\n    'criterion': 'High Strength',\n    'material': 'Carbon Fiber Reinforced Polymer (CFRP)',\n    'Young\\'s Modulus': {'min': 150, 'max': 300, 'units': 'GPa'},\n    'Density': {'min': 1.5, 'max': 1.8, 'units': 'g/cm^3'},\n    'Yield Strength': {'min': 500, 'max': 1000, 'units': 'MPa'}\n}"

@@ -1,0 +1,1 @@
+"Output JSON:\n{\n    'design': 'Kitchen Utensil Grip',\n    'criterion': 'Resistant to Heat',\n    'Steel': 1,\n    'Aluminium': 2,\n    'Titanium': 3,\n    'Glass': 9,\n    'Wood': 6,\n    'Thermoplastic': 7,\n    'Elastomer': 8,\n    'Thermoset': 5,\n    'Composite': 4\n}"
