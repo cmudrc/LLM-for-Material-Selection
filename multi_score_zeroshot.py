@@ -4,7 +4,7 @@ import json
 
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-def get_completion(prompt, model="gpt-3.5-turbo"):
+def get_completion(prompt, model="gpt-4"):
     messages = [{"role": "user", "content": prompt}
                 ,{"role": "system", "content": "You are a Materials Science and Design Engineering expert."}]
     response = client.chat.completions.create(
@@ -70,6 +70,8 @@ def prompt_response(design_choice: str, criterion: str):
     'criterion' : criterion evaluated from above,
     material name (material family scored - if it is steel then use steel as the key) : score which is an integer ranging from 0-10,
     )
+    Only output the JSON for the materials you have scored. No need of an explanation.
+    Make sure the response is in a JSON format.
     """
 
 
@@ -88,7 +90,7 @@ for j in range(len(design_choice)):
 
         print(f"Output {j}",score_json)
 
-        path = f"/Users/yashpatawari/LLM_Materials/All 10/{design_choice[j]}_{criterion[k]}"
+        path = f"/Users/yashpatawari/LLM-for-Material-Selection/All 10_GPT4/{design_choice[j]}_{criterion[k]}.json"
 
         with open(path, "w") as json_file:
             json.dump(score_json, json_file)
