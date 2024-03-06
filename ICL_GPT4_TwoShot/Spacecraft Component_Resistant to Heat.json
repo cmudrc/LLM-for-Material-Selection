@@ -1,0 +1,1 @@
+"{\n\"design\": \"Spacecraft Component\",\n\"criterion\": \"Resistant to Heat\",\n\"Steel\": 8,\n\"Aluminium\": 6,\n\"Titanium\": 9,\n\"Glass\": 7,\n\"Wood\": 0,\n\"Thermoplastic\": 2,\n\"Elastomer\": 1,\n\"Thermoset\": 3,\n\"Composite\": 10\n}"
